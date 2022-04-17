@@ -5,7 +5,7 @@ I'm an aspiring engineer and an OpenSource enthusiast from India. I have a lot o
 
 <h2> My Skills 👨🏽‍💻 </h2>
 
-> THERE ARE SEVERAL TECHNOLOGIES THAT I USE OR HAVE WORKED ON IN THE PAST
+> There are several skills I've piked up over the years and technologies that I use or have worked on in the past.
 
 <p dir="auto"><strong>Programming Languages </strong></p>
 <table>
