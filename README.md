@@ -1,4 +1,4 @@
-
+```mermaid
 ---
 title: test
 config:
