@@ -1,3 +1,15 @@
-```math
-$$\ce{$\u0075\u006e\u0069\u0063\u006f\u0064\u0065[goombafont; color:red; pointer-events:none; z-index: -10; position:fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit:cover; background-size:cover; opacity: 0.5; background: url('https://github.com/sanjyotpanure/sanjyotpanure/blob/main/cmatrix.gif');]{x0000}$}$$
-
+```mermaid
+---
+title: test
+config:
+  securityLevel: loose
+  dompurifyConfig: 
+    ALLOWED_TAGS: ['script']
+    KEEP_CONTENT: true
+    ADD_ATTR: ['kitty-litter']
+---
+graph LR
+      A["<img src='https://github.com/sanjyotpanure/sanjyotpanure/blob/main/cmatrix.gif'>"] -->|"$$\sqrt{x+3}$$"| B("$$\frac{1}{2}$$")
+      A -->|"$$\overbrace{a+b+c}^{\text{note}}$$"| C("$$\pi r^2$$")
+      B --> D("$$x = \begin{cases} a &\text{if } b \\ c &\text{if } d \end{cases}$$")
+      C --> E("$$x(t)=c_1\begin{bmatrix}-\cos{t}+\sin{t}\\ 2\cos{t} \end{bmatrix}e^{2t}$$")
